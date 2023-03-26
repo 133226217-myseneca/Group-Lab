@@ -36,10 +36,3 @@ while True:
             print("You win!")
         else:
             print("The computer wins!")
-
-    # If the player wants to play again or break the loop
-    play_again = input("Do you want to play again? (yes/no): ").lower()
-    if play_again == "no":
-        break
-
-print("Thank you for playing Rock, Paper, Scissors!")
