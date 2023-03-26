@@ -10,7 +10,6 @@ Using the game's standard rules, the program determines the winner, and subseque
 The application does not include any advanced features or graphical interface. 
 The program was last updated on March 26, 2023.
 '''
-
 options = ["rock", "paper", "scissors"]
 
 while True:
